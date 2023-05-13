@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SYAODi0CgTW00M2oLC8a8+cjabgX+Ytzy+T5tvgnzQNemuArcv773p907NHkoRIhOYWeU6Fwq7rwS0FLUVFr0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thiago Santos\\repo\\learn-fsharp\\src\\src.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago Santos\\.nuget\\packages\\deedle\\3.0.0\\deedle.3.0.0.nupkg.sha512",
+    "C:\\Users\\Thiago Santos\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}

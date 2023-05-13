@@ -47,6 +47,11 @@
               "target": "Package",
               "version": "[7.0.200, )",
               "generatePathProperty": true
+            },
+            "FSharp.Data": {
+              "target": "Package",
+              "version": "[6.2.0, )",
+              "generatePathProperty": true
             }
           },
           "imports": [

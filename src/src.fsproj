@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -11,6 +11,7 @@
 
   <ItemGroup>
     <PackageReference Include="Deedle" Version="3.0.0" />
+    <PackageReference Include="FSharp.Data" Version="6.2.0" />
   </ItemGroup>
 
 </Project>

@@ -1,11 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "SYAODi0CgTW00M2oLC8a8+cjabgX+Ytzy+T5tvgnzQNemuArcv773p907NHkoRIhOYWeU6Fwq7rwS0FLUVFr0Q==",
+  "dgSpecHash": "w8CQfLtwNl89gvWwKL/BMcwZGrGL2VeaK/QAbiMsIvAs7xM+wrDVnuAvZU7+ByXqs/M7GZD3ENkOzNGjlBSIJA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Thiago Santos\\repo\\learn-fsharp\\src\\src.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thiago Santos\\.nuget\\packages\\deedle\\3.0.0\\deedle.3.0.0.nupkg.sha512",
-    "C:\\Users\\Thiago Santos\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+    "C:\\Users\\Thiago Santos\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512",
+    "C:\\Users\\Thiago Santos\\.nuget\\packages\\fsharp.data\\6.2.0\\fsharp.data.6.2.0.nupkg.sha512",
+    "C:\\Users\\Thiago Santos\\.nuget\\packages\\fsharp.data.csv.core\\6.2.0\\fsharp.data.csv.core.6.2.0.nupkg.sha512",
+    "C:\\Users\\Thiago Santos\\.nuget\\packages\\fsharp.data.html.core\\6.2.0\\fsharp.data.html.core.6.2.0.nupkg.sha512",
+    "C:\\Users\\Thiago Santos\\.nuget\\packages\\fsharp.data.http\\6.2.0\\fsharp.data.http.6.2.0.nupkg.sha512",
+    "C:\\Users\\Thiago Santos\\.nuget\\packages\\fsharp.data.json.core\\6.2.0\\fsharp.data.json.core.6.2.0.nupkg.sha512",
+    "C:\\Users\\Thiago Santos\\.nuget\\packages\\fsharp.data.runtime.utilities\\6.2.0\\fsharp.data.runtime.utilities.6.2.0.nupkg.sha512",
+    "C:\\Users\\Thiago Santos\\.nuget\\packages\\fsharp.data.worldbank.core\\6.2.0\\fsharp.data.worldbank.core.6.2.0.nupkg.sha512",
+    "C:\\Users\\Thiago Santos\\.nuget\\packages\\fsharp.data.xml.core\\6.2.0\\fsharp.data.xml.core.6.2.0.nupkg.sha512"
   ],
   "logs": []
 }

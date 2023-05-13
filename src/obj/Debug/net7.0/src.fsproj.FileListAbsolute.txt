@@ -32,3 +32,11 @@ C:\Users\Thiago Santos\repo\learn-fsharp\src\obj\Debug\net7.0\refint\src.dll
 C:\Users\Thiago Santos\repo\learn-fsharp\src\obj\Debug\net7.0\src.pdb
 C:\Users\Thiago Santos\repo\learn-fsharp\src\obj\Debug\net7.0\src.genruntimeconfig.cache
 C:\Users\Thiago Santos\repo\learn-fsharp\src\obj\Debug\net7.0\ref\src.dll
+C:\Users\Thiago Santos\repo\learn-fsharp\src\bin\Debug\net7.0\FSharp.Data.dll
+C:\Users\Thiago Santos\repo\learn-fsharp\src\bin\Debug\net7.0\FSharp.Data.Csv.Core.dll
+C:\Users\Thiago Santos\repo\learn-fsharp\src\bin\Debug\net7.0\FSharp.Data.Html.Core.dll
+C:\Users\Thiago Santos\repo\learn-fsharp\src\bin\Debug\net7.0\FSharp.Data.Http.dll
+C:\Users\Thiago Santos\repo\learn-fsharp\src\bin\Debug\net7.0\FSharp.Data.Json.Core.dll
+C:\Users\Thiago Santos\repo\learn-fsharp\src\bin\Debug\net7.0\FSharp.Data.Runtime.Utilities.dll
+C:\Users\Thiago Santos\repo\learn-fsharp\src\bin\Debug\net7.0\FSharp.Data.WorldBank.Core.dll
+C:\Users\Thiago Santos\repo\learn-fsharp\src\bin\Debug\net7.0\FSharp.Data.Xml.Core.dll
